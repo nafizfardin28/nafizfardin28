@@ -54,16 +54,9 @@
     
 </table>
 
-[![Nafiz's Github stats](https://github-readme-stats.vercel.app/api?username=nafizfardin28&show_icons=true&theme=dracula)](https://github.com/nafizfardin28/github-readme-stats)
+[![Nafiz's Github stats](https://github-readme-stats.vercel.app/api?username=nafizfardin28&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanTausif&layout=compact&langs_count=7&theme=dark)
 
 
-
-## My contribution streak
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NafizMahmudFardin&theme=dark&hide_border=false"/>
-  </a>
-</p>
 
 ## LeetCode Stats
 
