@@ -36,8 +36,20 @@
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
         <td>
             <img height="40" src="https://skillicons.dev/icons?i=javascript,cpp,c,java,html,css" />
-            <img height="40" src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,eclipse"/>
         </td>
+    </tr>
+  <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=sqlite,oracle" />
+        </td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+      <td>
+            <img height="40" src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,eclipse"/>
+      </td>
+
     </tr>
     
 </table>
