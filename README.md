@@ -1,7 +1,7 @@
 <!-- HEADER SECTION WITH TYPING SVG -->
 
 <div align="center" style="background-color: #222; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=48&color=%23FFD69A&center=true&vCenter=true&width=600&height=60&lines=----+Hey!+This+is+Nafiz+Mahmud+Fardin+----&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=48&color=%23FFD69A&center=true&vCenter=true&width=600&height=60&lines=--+Hey!+This+is+Nafiz+Mahmud+Fardin+----&repeat=false">
 </div>
 
 <div align="center">
@@ -35,7 +35,8 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=javascript,cpp,c,javahtml,css" />
+            <img height="40" src="https://skillicons.dev/icons?i=javascript,cpp,c,java,html,css" />
+            <img height="40" src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,eclipse"/>
         </td>
     </tr>
     
@@ -51,7 +52,7 @@
 ## My contribution streak
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafizfardin28&layout=compact&langs_count=7&theme=dark"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NafizMahmudFardin&theme=dark&hide_border=false"/>
   </a>
 </p>
 
@@ -68,7 +69,7 @@
 
 <p align="center">
   <a href="mailto:bsse1528@iit.du.ac.bd"><img src="https://img.shields.io/badge/Email-bsse1528@iit.du.ac.bd-blue?style=flat-square&logo=gmail"></a>
-  <a href="(https://www.linkedin.com/in/nafiz-mahmud-fardin-869285289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/LinkedIn-NafizMahmudFardin-blue?style=flat-square&logo=linkedin"></a>
+  <a href="(https://www.linkedin.com/in/nafiz-mahmud-fardin-869285289"><img src="https://img.shields.io/badge/LinkedIn-NafizMahmudFardin-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/nafizfardin28"><img src="https://img.shields.io/badge/GitHub-NafizMahmudFardin-lightgrey?style=flat-square&logo=github"></a>
   <a href="https://leetcode.com/u/nafizfardin28/"><img src="https://img.shields.io/badge/LeetCode-NafizMahmudFardin-orange?style=flat-square&logo=leetcode"></a>
 </p>
