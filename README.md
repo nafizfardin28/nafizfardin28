@@ -54,7 +54,12 @@
     
 </table>
 
-[![Nafiz's Github stats](https://github-readme-stats.vercel.app/api?username=nafizfardin28&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=nafizfardin28&layout=compact&langs_count=7&theme=dark)
+## GitHub Stats
+<div align="center">
+<a href="https://github.com/FarhanTausif">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nafizfardin28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=nafizfardin28&layout=compact&langs_count=7&theme=dark)"/></a>
+</div>
 
 
 
