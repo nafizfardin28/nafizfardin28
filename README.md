@@ -1,7 +1,7 @@
 <!-- HEADER SECTION WITH TYPING SVG -->
 
 <div align="center" style="background-color: #222; padding: 20px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=48&color=%23FFD69A&center=true&vCenter=true&width=600&height=60&lines=--+Hey!+This+is+Nafiz+Mahmud+Fardin+----&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Honk&size=48&color=%23FFD69A&center=true&vCenter=true&width=600&height=60&lines=---+This+is+Nafiz+Mahmud+Fardin+----&repeat=false">
 </div>
 
 <div align="center">
