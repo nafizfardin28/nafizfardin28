@@ -90,4 +90,6 @@
       src="https://img.shields.io/badge/GitHub-NafizMahmudFardin-lightgrey?style=flat-square&logo=github"></a>
   <a href="https://leetcode.com/u/nafizfardin28/"><img
       src="https://img.shields.io/badge/LeetCode-NafizMahmudFardin-orange?style=flat-square&logo=leetcode"></a>
+  <a href="https://codeforces.com/profile/nafizfardin21"><img
+     src="https://img.shields.io/badge/Codeforces-NafizMahmudFardin-grey?style=flat-square&logo=codeforces"></a>                                                  
 </p>
