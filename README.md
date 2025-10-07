@@ -66,6 +66,8 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafizfardin28&layout=compact&langs_count=7&theme=dark" /></a>
 </div>
 
+## Codeforces Stats
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=nafizfardin21&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/nafizfardin21)
 
 
 ## LeetCode Stats
