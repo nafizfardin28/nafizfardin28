@@ -58,7 +58,11 @@
 
 </table>
 ## GitHub Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nafizfardin28&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nafizfardin28&show_icons=true&theme=dark&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=nafizfardin28&theme=dark&hide_border=true" height="165"/>
+</p>
+
 
 
 
